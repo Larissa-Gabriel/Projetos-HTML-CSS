@@ -3,7 +3,7 @@
 
 ## :clipboard: Sobre o projeto
 
-Um mini projeto em HTML e CSS onde fiz um Check List bem básica e fácil. Esperando ajudar os iniciantes a entender melhor o funcionamento dos códigos dessas linguagens!
+Um mini projeto em HTML e CSS onde fiz um Check List bem básica e fácil. Espero ajudar os iniciantes a entender melhor o funcionamento dos códigos dessas linguagens!
 
 ---
 
