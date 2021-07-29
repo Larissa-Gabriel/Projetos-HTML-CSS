@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Andale Mono, monospace;
+    box-sizing: border-box; /* Esse comando garante que o elemento div terá um tamanho total até a borda, onde o largura será a soma do conteúdo com a borda e o padding */
+}
+
+body{
+    display: flex;
+    justify-content: center; /* Quando usamos esse comando em um "elemento pai"(como o body) todos os "elementos filhos"(está dentro do elemento pai) se organizam em linha e ocupam apenas o espaço necessário para exibir seu conteúdo.*/
+    align-items: center;
+    min-height: 100vh; /* vh 1% da altura da viewport, ou seja medida vh é igualada em porcentagens a viewport. Com elas é possível atribuir a um elemento o tamanho da altura da viewport. */
+    background: #07404a;
+}
+
+.lista{
+    padding: 30px 75px 10px 30px;
+    position: relative;
+    background:#386e72;
+    border-top: 50px solid #fbaa82;
+}
+.lista h1{
+    color: #fbaa82;
+    font-size: 30px;
+    padding: 10px 0;
+    margin-left: 10px;
+    display: inline-block;
+    border-bottom: 4px solid #fff;
+}
+
+.lista label{
+    position: relative;
+    display: block;
+    margin: 40px 0;
+    color: #fbaa82;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+@media only screen and (max-device-width: 900px) {
+    .lista { width:100%; } 
+    }
+    
