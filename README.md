@@ -18,7 +18,7 @@ Meu objetivo é fazer por volta de uns 50 mini projetos com HTML e CSS com as pu
 ## :art: Paletas de cores 
 
 
-Eu sou apaixonada pela arte e o design, então por isso decidi colocar juntamente com os projetos algumas paletas de cores das quais mais gosteis e da alguns dicas de design. 
+Eu sou apaixonada pela arte e o design, então por isso decidi colocar juntamente com os projetos algumas paletas de cores das quais mais gostei juntamente com algumas dicas de design. 
 
 Espero que vocês gostem dessa ideia!!!
 <br><br>
